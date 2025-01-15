@@ -28,6 +28,10 @@
 
 /restart - перезапуск бота.
 
+1) Впешите токен бота из @BotFather в файл config.py
+
+2) Запустите python3 main.py
+
 Как использовать:
 
 Перешлите боту сообщение из другого чата.
@@ -39,6 +43,7 @@
 Настройте целевой канал с помощью команды /set_target.
 
 Бот автоматически будет публиковать сообщения в указанное время на указанное количество дней.
+
 
 ------------------------------------------------------------------------------------------------------
 
@@ -71,6 +76,10 @@ Main features:
 /set_mode <forward/copy> - set the sending mode (forward or copy).
 
 /restart - restart the bot.
+
+1) Enter the bot token from @BotFather in the file config.py
+
+2) Run python 3 main.py
 
 How to use:
 
